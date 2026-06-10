@@ -1,0 +1,20 @@
+{
+  "node": "N8nDevApideckCustomerSupport",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "Development"
+  ],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-apideck-customer-support"
+      }
+    ],
+    "credentialDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-apideck-customer-support?tab=readme-ov-file#credentials"
+      }
+    ]
+  }
+}
